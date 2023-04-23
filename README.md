@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://tenor.com/view/ken-kaneki-tokyo-ghoul-anime-smoke-stare-gif-5678108">
+<img width="35%" align="right" src="https://media.tenor.com/tkHvqkeSq-oAAAAC/ken-kaneki-tokyo-ghoul.gif">
 
 <h3 align="center">
   Welcome to Mahmoud Abdulaziz's profile!
@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mahmoud-abdulaziz-6ab84419a" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-Mahmoud-blue/></a>
+<a href="https://linkedin.com/in/mahmoud-abdulaziz-6ab84419a" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-Mahmoud-blue"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
